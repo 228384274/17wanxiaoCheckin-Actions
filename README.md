@@ -18,7 +18,7 @@
 
 1、模拟器使用httpcanary抓包（其实还可以使用fiddle进行抓包）
 
-2、httpcanary的初步使用
+2、httpcanary的使用
 
 3、GitHub Actions自动化部署Python脚本
 
